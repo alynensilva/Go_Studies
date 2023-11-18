@@ -1,1 +1,1 @@
-# Go Studies
+# goStudies
