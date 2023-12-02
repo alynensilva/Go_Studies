@@ -1,2 +1,4 @@
 github.com/alynensilva/puppy v0.0.0-20231120010238-c603dde7af2e h1:lBZP1N07wVjoq0vYCaoZcD053nRPA4JDfmX6v3AQK/w=
 github.com/alynensilva/puppy v0.0.0-20231120010238-c603dde7af2e/go.mod h1:HM1YasT80SkaXt3uNibrIwC2p0vjdyVjLk8c2lNmwYE=
+github.com/alynensilva/puppy v1.0.0 h1:O/u2KUHrfOtyv+RJqzeUhDPh8DoIlXiRFkaTz5DosOY=
+github.com/alynensilva/puppy v1.0.0/go.mod h1:HM1YasT80SkaXt3uNibrIwC2p0vjdyVjLk8c2lNmwYE=
